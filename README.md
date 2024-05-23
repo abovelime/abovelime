@@ -2,7 +2,7 @@
 - 👀 I’m interested in making a game.
 - 🌱 I’m currently learning C# & Frontend.
 - 💞️ I’m looking to collaborate on QA Testing for my game.
-- 📫 How to reach me: liamb@abovelime.com
+- 📫 How to reach me: support@abovelime.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I suck at coding
 
